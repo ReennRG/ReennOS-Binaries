@@ -1,0 +1,7 @@
+// Archivo de control de actualizaciones de ReennOS
+// Formato: Rama del usuario | Nueva versión a mostrar
+
+ReennOS 10 LTSC 21H2 | ReennOS 10 LTSC 21H2.1
+ReennOS 10 PRO 22H2 | ReennOS 10 PRO 22H2.1
+ReennOS 11 24H2 | ReennOS 11 24H2.1
+ReennOS 11 25H2 | ReennOS 11 25H2.1
