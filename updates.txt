@@ -1,4 +1,21 @@
-ReennOS 10 LTSC 21H2 | ReennOS 10 LTSC 21H2.1
-ReennOS 10 PRO 22H2  | ReennOS 10 PRO 22H2.1
-ReennOS 11 LTSC 24H2 | ReennOS 11 LTSC 24H2.1
-ReennOS 11 PRO 25H2  | ReennOS 11 PRO 25H2.1
+# Configuración oficial de actualizaciones para ReennOS (updates.txt)
+# Formato: Edition Version | Versión Remota | Tipo (Free / Pro)
+
+# ReennOS 10 LTSC 21H2
+ReennOS 10 LTSC 21H2|v1.0|Free
+ReennOS 10 LTSC 21H2|v1.1|Free
+
+# ReennOS 10 PRO 22H2
+ReennOS 10 PRO 22H2|v2.0.1|Free
+ReennOS 10 PRO 22H2|v2.1.0|Pro
+
+# ReennOS 11 LTSC 24H2
+ReennOS 11 LTSC 24H2|v1.0|Free
+
+# ReennOS 11 LTSC 25H2
+ReennOS 11 LTSC 25H2|v1.0|Free
+ReennOS 11 LTSC 25H2|v1.2|Free
+
+# ReennOS 11 PRO 25H2
+ReennOS 11 PRO 25H2|v2.5.1|Free
+ReennOS 11 PRO 25H2|v3.0.0|Pro
