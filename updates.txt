@@ -20,3 +20,11 @@ ReennOS 11 LTSC 25H2|v1.1|Free
 # ReennOS 11 PRO 25H2
 ReennOS 11 PRO 25H2|v3.0.0|Pro
 ReennOS 11 PRO 25H2|v2.5.1|Free
+
+# ReennOS 11 PRO 26H2
+ReennOS 11 PRO 26H2|v3.0.1|Pro
+ReennOS 11 PRO 26H2|v2.5.7|Free
+
+# ReennOS 11 LTSC 26H2
+ReennOS 11 LTSC 26H2|v1.3|Pro
+ReennOS 11 LTSC 26H2|v1.2|Free
